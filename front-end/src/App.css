@@ -9,3 +9,21 @@
   align-items: center;
   flex-direction: column;
 }
+.header{
+  display: flex;
+  flex-direction: row;
+  gap: 700px;
+}
+.logo{
+  font-size: 40px;
+}
+.menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 100px;
+}
+hr{
+  width: 100%;
+  color: black;
+}
